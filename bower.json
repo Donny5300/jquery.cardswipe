@@ -1,7 +1,7 @@
 {
   "name": "jquery.cardswipe",
   "description": "jQuery plugin which allows a web application to read magnetic stripe cards using common card readers that simulate a keyboard.",
-  "main": "jquery.cardswipe.js",
+  "main": "dist/jquery.cardswipe.js",
   "author": {
     "name": "Carl J. Raymond",
     "email": "carl@orcharddev.com",
