@@ -1,0 +1,26 @@
+{
+  "name": "jquery.cardswipe",
+  "description": "jQuery plugin which allows a web application to read magnetic stripe cards using common card readers that simulate a keyboard.",
+  "main": "jquery.cardswipe.js",
+  "authors": [
+    "[object Object]"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "jquery-plugin",
+    "ecosystem:jquery",
+    "magentic",
+    "stripe",
+    "card",
+    "reader"
+  ],
+  "homepage": "https://github.com/Donny5300/jquery.cardswipe",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
